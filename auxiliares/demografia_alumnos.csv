@@ -1,0 +1,251 @@
+﻿Sexo,Nivel_Estudios,Ocupacion,Sector_trabajo,Sector_Estudio,Estatura,Edad,Pais
+Masculino,Licenciatura completa,Trabajo,Privado,,173,26,Mexico
+Masculino,Maestría completa,"Trabajo, Estudio",Público,Pública,170,44,Ecuador
+Femenino,Doctorado completo,Trabajo,Público,,159,36,Mexico
+Femenino,Licenciatura completa,Trabajo,Público,,154,36,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,Pública,172,23,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,Pública,165,30,Colombia
+Masculino,Licenciatura completa,Estudio,,Privada,175,64,Mexico
+Masculino,Licenciatura completa,Trabajo,Público,Pública,173,39,Ecuador
+Masculino,Licenciatura completa,Trabajo,Privado,Privada,180,27,Mexico
+Femenino,Licenciatura completa,Trabajo,Privado,,162,26,Mexico
+Masculino,Preuniversitario,Trabajo,Privado,,165,29,Mexico
+Masculino,Maestría completa,Trabajo,Privado,,176,33,Mexico
+Masculino,Maestría completa,Trabajo,Público,,170,41,Mexico
+Femenino,Maestría completa,"Trabajo, Estudio",Privado,Pública,165,46,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,168,32,Mexico
+Masculino,Preuniversitario,Estudio,,Pública,175,24,Mexico
+Masculino,Preuniversitario,Estudio,,Pública,170,21,Mexico
+Masculino,Maestría completa,Trabajo,Privado,,160,57,Mexico
+Masculino,Licenciatura completa,"Trabajo, Estudio",Privado,Pública,182,31,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,182,27,Mexico
+Femenino,Maestría completa,Trabajo,Público,Pública,159,32,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,169,40,Mexico
+Femenino,Licenciatura completa,Trabajo,Público,Pública,159,27,Mexico
+Masculino,Doctorado completo,Trabajo,Público,,160,53,Mexico
+Femenino,Licenciatura completa,Trabajo,Privado,,164,27,Mexico
+Femenino,Maestría completa,Estudio,,Pública,160,27,Mexico
+Femenino,Doctorado completo,Trabajo,Público,,157,40,Mexico
+Femenino,Licenciatura completa,Trabajo,Público,,150,53,Mexico
+Masculino,Licenciatura completa,"Trabajo, Estudio",Privado,Pública,178,36,EEUU
+Masculino,Licenciatura completa,Trabajo,Privado,,175,26,Mexico
+Femenino,Licenciatura completa,Trabajo,Privado,,164,28,Mexico
+Masculino,Maestría completa,Trabajo,Privado,,168,34,Peru
+Masculino,Maestría completa,"Trabajo, Estudio",Público,Pública,170,40,Mexico
+Masculino,Doctorado completo,Trabajo,Público,,168,43,Mexico
+Masculino,Licenciatura completa,Estudio,,Pública,172,19,Mexico
+Masculino,Doctorado completo,Trabajo,Público,,178,48,Mexico
+Masculino,Licenciatura completa,"Trabajo, Estudio",Privado,Pública,177,31,Mexico
+Femenino,Doctorado completo,Trabajo,Público,,156,38,Mexico
+Masculino,Doctorado completo,Trabajo,Privado,,165,43,Mexico
+Masculino,Licenciatura completa,"Trabajo, Estudio",Privado,Pública,170,22,Mexico
+Masculino,Licenciatura completa,Estudio,,Pública,170,29,Mexico
+Masculino,Maestría completa,Trabajo,Privado,Pública,171,34,Ecuador
+Masculino,Preuniversitario,Estudio,,Pública,172,26,Mexico
+Masculino,Maestría completa,Trabajo,Privado,,180,46,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,172,25,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,169,28,Mexico
+Masculino,Maestría completa,Trabajo,Público,,178,26,Mexico
+Masculino,Maestría completa,Estudio,,Pública,184,29,Mexico
+Masculino,Licenciatura completa,"Trabajo, Estudio",Privado,Pública,165,27,Mexico
+Femenino,Licenciatura completa,Trabajo y estudio,Público,Pública,165,52,Mexico
+Masculino,,Trabajo,Público,,166,53,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,175,36,Mexico
+Masculino,Licenciatura completa,"Trabajo, Estudio",Privado,Pública,181,34,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,167,25,Mexico
+Masculino,Maestría completa,Trabajo,Público,,171,56,Mexico
+Masculino,Maestría completa,Estudio,,Pública,160,28,Mexico
+Masculino,Maestría completa,"Trabajo, Profesor de universidad",Público,,158,48,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,175,26,Mexico
+Masculino,Licenciatura completa,"Trabajo, Estudio",Privado,Pública,173,32,Mexico
+Masculino,Licenciatura completa,"Trabajo, Estudio",Público,Pública,184,36,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,171,37,Mexico
+Masculino,Doctorado completo,Trabajo,Público,Pública,171,41,Mexico
+Masculino,Doctorado completo,Trabajo,Público,Pública,176,37,Mexico
+Masculino,Preuniversitario,Estudio,,,173,37,Chile
+Masculino,Preuniversitario,Trabajo,Privado,,170,33,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,172,25,Mexico
+Femenino,Licenciatura completa,Trabajo,Privado,,160,24,Mexico
+Femenino,Maestría completa,Trabajo,Público,,165,37,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,160,29,Mexico
+Masculino,Licenciatura completa,Desempleado,,,185,35,Mexico
+Masculino,Maestría completa,"Trabajo, Estudio",Privado,Privada,178,47,Chile
+Masculino,Preuniversitario,Estudio,,Pública,169,21,Mexico
+Masculino,Licenciatura completa,"Trabajo, Estudio",Privado,Pública,175,23,Mexico
+Femenino,Maestría completa,Estudio,,Pública,154,32,Mexico
+Femenino,Licenciatura completa,Trabajo,Privado,,159,36,Mexico
+Femenino,Maestría completa,Trabajo,Público,Pública,160,34,Mexico
+Femenino,Maestría completa,Trabajo,Público,,168,33,Mexico
+Masculino,Doctorado completo,Docente en el área de economía,Público,,172,55,Mexico
+Masculino,Maestría completa,Trabajo,Privado,,170,35,Mexico
+Femenino,Licenciatura completa,Desempleada,,,169,23,Mexico
+Femenino,Preuniversitario,"Trabajo, Estudio",Privado,Pública,155,21,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,Pública,168,25,Mexico
+Femenino,Licenciatura completa,Trabajo,Privado,,156,46,Mexico
+Masculino,Doctorado completo,Trabajo,Público,,174,43,Mexico
+Femenino,Licenciatura completa,Trabajo,Privado,,155,30,Mexico
+Masculino,Licenciatura completa,Trabajo,Público,,166,23,Mexico
+Masculino,Licenciatura completa,Desempleado,Privado,,176,26,Mexico
+Masculino,Maestría completa,Estudio,,Pública,185,42,Mexico
+Masculino,Maestría completa,Trabajo,Privado,,170,29,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,168,35,Mexico
+Masculino,,Trabajo,,,170,39,Mexico
+Masculino,Licenciatura completa,Trabajo,Público,,175,41,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,170,26,Mexico
+Femenino,Licenciatura completa,Trabajo,,,165,28,Mexico
+Femenino,Preuniversitario,"Trabajo, Estudio",Privado,Pública,168,19,Mexico
+Femenino,Licenciatura completa,Trabajo,Privado,,156,24,Mexico
+Masculino,Maestría completa,Trabajo,Privado,Privada,173,47,Mexico
+Masculino,Maestría completa,Estudio,Privado,Pública,160,37,Mexico
+Femenino,Maestría completa,Estudio,,Privada,168,28,Mexico
+Masculino,Doctorado completo,Trabajo,Privado,Privada,170,40,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,Pública,169,24,Mexico
+Masculino,Maestría completa,Trabajo,Privado,,176,56,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,180,24,Mexico
+Femenino,Doctorado completo,"Trabajo, Negocios",Público,,155,49,Mexico
+Masculino,Licenciatura completa,"Trabajo, Estudio",Privado,Pública,183,30,Mexico
+Femenino,Maestría completa,"Trabajo, Estudio",Privado,Pública,163,26,Mexico
+Masculino,Doctorado completo,Trabajo,Público,Pública,165,38,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,174,40,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,162,23,Mexico
+Femenino,Maestría completa,Desempleada,,,156,43,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,185,40,Mexico
+Femenino,Preuniversitario,Estudio,,Pública,169,19,Mexico
+Masculino,Licenciatura completa,Estudio,,Pública,173,27,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,169,33,Puerto Rico
+Masculino,Licenciatura completa,Trabajo,Privado,,158,24,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,168,36,Peru
+Masculino,Preuniversitario,"Trabajo, Estudio",Privado,Pública,176,22,Mexico
+Femenino,Licenciatura completa,Estudio,,Pública,159,25,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,186,24,Mexico
+Masculino,Licenciatura completa,Trabajo,Público,,163,36,Mexico
+Masculino,Maestría completa,Trabajo,Público,Pública,160,41,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,167,23,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,154,35,Mexico
+Masculino,Maestría completa,Trabajo,Público,Pública,187,48,Mexico
+Masculino,Licenciatura completa,Freelancer y Empleo,Público,,158,37,El Salvador
+Femenino,Licenciatura completa,Trabajo,Privado,,160,25,Mexico
+Masculino,Maestría completa,Trabajo,Privado,,175,37,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,181,27,Mexico
+Masculino,Licenciatura completa,Trabajo,Público,,185,33,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,176,26,Mexico
+Masculino,Licenciatura completa,Trabajo,Público,,165,51,Mexico
+Femenino,Doctorado completo,me interesa ingresar a un posdoctorado,,,150,31,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,173,57,Mexico
+Masculino,Licenciatura completa,sin empleo,,,170,37,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,160,39,Mexico
+Masculino,Licenciatura completa,Sin empleo,,,183,31,Mexico
+Femenino,Maestría completa,Trabajo,Público,,156,30,Mexico
+Femenino,Maestría completa,Trabajo,Privado,,158,38,Mexico
+Masculino,Licenciatura completa,"Trabajo, Estudio",Privado,Privada,183,33,Mexico
+Masculino,Licenciatura completa,"Trabajo, Estudio",Público,Pública,169,25,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,Pública,170,31,Mexico
+Masculino,Preuniversitario,Estudio,,Pública,170,23,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,157,26,Mexico
+Masculino,Maestría completa,Estudio,,Pública,176,32,Mexico
+Masculino,Doctorado completo,Trabajo,Público,,168,43,Mexico
+Femenino,Licenciatura completa,Trabajo,Público,,155,44,Mexico
+Masculino,Doctorado completo,Trabajo,Privado,,174,41,Mexico
+Masculino,Licenciatura completa,Estudio,Público,Pública,168,52,Peru
+Masculino,Licenciatura completa,Trabajo,Privado,,176,51,Mexico
+Femenino,Preuniversitario,Estudio,,Pública,174,26,Mexico
+Masculino,Maestría completa,Trabajo,Privado,,170,31,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,Pública,168,35,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,182,24,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,Privada,160,29,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,167,29,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,168,41,Mexico
+Masculino,Preuniversitario,"Trabajo, Estudio",Privado,Pública,163,19,Mexico
+Femenino,Licenciatura completa,Trabajo,Privado,,161,25,Mexico
+Masculino,Doctorado completo,Trabajo,Público,Pública,169,56,Mexico
+Masculino,Doctorado completo,Trabajo,Público,,173,52,Mexico
+Masculino,Maestría completa,"Trabajo, Estudio",Privado,Privada,180,37,Colombia
+Masculino,Licenciatura completa,Trabajo,Privado,,180,26,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,Privada,165,58,Mexico
+Masculino,Preuniversitario,Estudio,,Pública,175,20,Mexico
+Femenino,Maestría completa,Trabajo,Privado,,160,44,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,Pública,169,24,Mexico
+Femenino,Maestría completa,Trabajo,Público,,155,53,Mexico
+Masculino,Maestría completa,Trabajo,Privado,Privada,176,39,Mexico
+Masculino,Licenciatura completa,Practicante,Privado,Pública,178,23,Mexico
+Femenino,Licenciatura completa,Trabajo,Privado,,170,27,Mexico
+Femenino,Doctorado completo,Trabajo,Público,,147,42,Mexico
+Masculino,Maestría completa,Terminando el Doctorado fuera de tiempo y con negocio propio,,Pública,163,32,Mexico
+Masculino,Preuniversitario,"Trabajo, Estudio",Privado,Privada,173,31,Mexico
+Masculino,,Estudio,,,173,37,Chile
+Masculino,Licenciatura completa,"Trabajo, Estudio",Privado,Pública,184,41,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,175,32,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,166,38,Mexico
+Masculino,Licenciatura completa,"Trabajo, Estudio",,Pública,172,28,Mexico
+Masculino,Licenciatura completa,"Trabajo, Estudio",Privado,Pública,180,30,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,170,45,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,170,23,Mexico
+Masculino,Preuniversitario,Estudio,,Pública,164,21,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,163,31,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,169,35,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,174,53,France
+Masculino,Licenciatura completa,Trabajo,,,173,46,Peru
+Masculino,Licenciatura completa,Trabajo,Privado,Pública,170,22,Peru
+Femenino,Licenciatura completa,Trabajo,Privado,,163,36,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,170,42,Mexico
+Femenino,Licenciatura completa,"Estudio, Estudiante de maestría y productora independiente de granos comerciales y de miel",Privado,Pública,150,36,Mexico
+Masculino,Maestría completa,Trabajo,Privado,,167,35,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,163,24,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,178,29,Mexico
+Masculino,Maestría completa,Trabajo,Privado,Privada,175,49,Mexico
+Masculino,Preuniversitario,Jubilado,,,165,47,Mexico
+Masculino,Maestría completa,Trabajo,Privado,,173,35,Mexico
+Femenino,Preuniversitario,Estudio,,Pública,159,19,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,168,22,Mexico
+Femenino,Licenciatura completa,Trabajo,Privado,,161,31,Mexico
+Masculino,Licenciatura completa,"Trabajo, Estudio",Privado,Pública,173,22,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,175,23,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,170,26,Mexico
+Masculino,Maestría completa,Trabajo,Privado,,173,38,Peru
+Femenino,Maestría completa,Estudio,,Pública,153,25,Mexico
+Femenino,Licenciatura completa,"Trabajo, Estudio",Privado,Pública,160,27,Mexico
+Masculino,Maestría completa,Trabajo,Privado,,180,30,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,174,27,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,186,38,Mexico
+Femenino,Licenciatura completa,Estudio,,Privada,155,22,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,175,39,Mexico
+Femenino,Doctorado completo,Trabajo,Público,,165,41,Mexico
+Masculino,Licenciatura completa,Estudio,,,168,27,Mexico
+Femenino,Maestría completa,Trabajo,Privado,,150,50,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,177,31,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,185,30,Mexico
+Masculino,Maestría completa,Trabajo,Público,,175,39,Mexico
+Femenino,Licenciatura completa,Trabajo,Privado,,164,25,Mexico
+Masculino,Doctorado completo,Trabajo,Privado,Pública,163,33,Mexico
+Masculino,Maestría completa,Estudio,,Pública,165,35,Mexico
+Masculino,Maestría completa,Trabajo,Privado,,163,45,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,165,24,Mexico
+Masculino,,Independiente,,,170,40,Mexico
+Femenino,Maestría completa,Estudio,,Pública,166,41,Mexico
+Masculino,Licenciatura completa,"Trabajo, Estudio",Privado,Pública,168,22,Mexico
+Masculino,Doctorado completo,Profesor de: Bioestadística aplicada a la investigación,Público,,175,52,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,171,37,Mexico
+Masculino,,Trabajo,Público,Pública,172,36,Mexico
+Femenino,Licenciatura completa,Trabajo,Privado,Pública,153,29,Mexico
+Masculino,Doctorado completo,Autoempleo,,,180,42,Mexico
+Femenino,Preuniversitario,"Trabajo, Estudio",Público,Privada,164,32,Mexico
+Masculino,Doctorado completo,Trabajo,Público,,182,54,Mexico
+Masculino,Maestría completa,Trabajo,Privado,Privada,169,54,Mexico
+Masculino,Maestría completa,Trabajo,Público,,168,45,Mexico
+Femenino,Maestría completa,Trabajo,Público,Pública,165,43,Mexico
+Masculino,Licenciatura completa,Trabajo,Público,,177,25,Mexico
+Masculino,Maestría completa,"Trabajo, Estudio",Privado,Privada,177,40,Mexico
+Femenino,Maestría completa,Trabajo,Privado,,165,41,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,176,47,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,Privada,175,61,EEUU
+Masculino,Licenciatura completa,"Trabajo, Estudio",Privado,Privada,172,25,Mexico
+Masculino,Preuniversitario,Estudio,,Pública,160,27,Mexico
+Femenino,Maestría completa,Trabajo,Privado,Privada,164,32,Mexico
+Masculino,Preuniversitario,Pensionando,Privado,Privada,175,37,Puerto Rico
+Masculino,Preuniversitario,Estudio,,Pública,171,24,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,,188,22,Mexico
+Masculino,Licenciatura completa,"Trabajo, Estudio",Público,Pública,174,29,Mexico
+Masculino,Licenciatura completa,Trabajo,Público,,162,50,Mexico
+Masculino,Licenciatura completa,Trabajo,Privado,Pública,170,31,Mexico
+Masculino,Licenciatura completa,Estudio,,Pública,172,22,Mexico
+Masculino,Licenciatura completa,Estudio,,Pública,174,26,Mexico
